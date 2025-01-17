@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 void printValues(int*);
 void sort(int*);
 void swap(int*,int*);
