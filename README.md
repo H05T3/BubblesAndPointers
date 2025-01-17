@@ -6,5 +6,5 @@
 * List of functions:
 	* **main()**
 		* This Function is supposed to run the entire program, and run the sort method.
-	* ** printValues(int\*) **
+	* **printValues(int\*)**
 		* This function
